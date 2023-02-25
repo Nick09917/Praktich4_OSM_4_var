@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Sat Feb 25 19:06:57 ALMT 2023</comment>
+<entry key="m31">7.773821696758883</entry>
+<entry key="m30">4.24157268418635</entry>
+<entry key="m11">-2.3683932237783782</entry>
+<entry key="m33">-8.132470572685973</entry>
+<entry key="m10">-9.452709869065139</entry>
+<entry key="m32">-8.880738302831638</entry>
+<entry key="m13">8.634464958877267</entry>
+<entry key="r30">1.0</entry>
+<entry key="m12">3.224326463207861</entry>
+<entry key="m34">-3.8605776277217974</entry>
+<entry key="r10">1.0</entry>
+<entry key="r32">1.0</entry>
+<entry key="m14">3.957188862966417</entry>
+<entry key="r31">1.0</entry>
+<entry key="r12">1.0</entry>
+<entry key="r34">1.0</entry>
+<entry key="r11">1.0</entry>
+<entry key="r33">1.0</entry>
+<entry key="r14">1.0</entry>
+<entry key="r13">1.0</entry>
+<entry key="m20">-6.502143922823027</entry>
+<entry key="m22">0.0</entry>
+<entry key="m00">-4.5998120466617625</entry>
+<entry key="m21">-5.613156172855447</entry>
+<entry key="m02">-3.3639078000776994</entry>
+<entry key="m24">4.504572334015213</entry>
+<entry key="m23">7.986514764039711</entry>
+<entry key="m01">-7.923511412417379</entry>
+<entry key="m04">-3.3979729206581366</entry>
+<entry key="r21">1.0</entry>
+<entry key="m03">2.470534188843306</entry>
+<entry key="r20">1.0</entry>
+<entry key="r01">1.0</entry>
+<entry key="r23">1.0</entry>
+<entry key="r00">1.0</entry>
+<entry key="r22">0.0</entry>
+<entry key="r03">1.0</entry>
+<entry key="r02">1.0</entry>
+<entry key="r24">1.0</entry>
+<entry key="r04">1.0</entry>
+</properties>

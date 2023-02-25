@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Sat Feb 25 18:16:36 ALMT 2023</comment>
+<entry key="m20">0.0</entry>
+<entry key="m31">0.0</entry>
+<entry key="m30">0.0</entry>
+<entry key="m00">0.0</entry>
+<entry key="m11">0.0</entry>
+<entry key="m22">0.0</entry>
+<entry key="m33">0.0</entry>
+<entry key="m10">0.0</entry>
+<entry key="m21">0.0</entry>
+<entry key="m32">0.0</entry>
+<entry key="m02">0.0</entry>
+<entry key="m13">0.0</entry>
+<entry key="m24">0.0</entry>
+<entry key="m01">0.0</entry>
+<entry key="m12">0.0</entry>
+<entry key="m23">0.0</entry>
+<entry key="m34">0.0</entry>
+<entry key="m04">0.0</entry>
+<entry key="m03">0.0</entry>
+<entry key="m14">0.0</entry>
+</properties>
